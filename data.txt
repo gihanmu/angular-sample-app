@@ -1,0 +1,34 @@
+var employees=[
+   {
+   	  "id":"001",
+      "name":"ABC Perera",
+      "department":"SALES"
+
+   },
+   {
+   	  "id":"002",
+      "name":"DEF Fernando",
+      "department":"IT"
+
+   },
+   {
+   	  "id":"003",
+      "name":"Mike Zee",
+      "department":"Finance"
+
+   },
+   {
+   	  "id":"004",
+      "name":"Bryan Silva",
+      "department":"Marketing"
+
+   },
+   {
+   	  "id":"005",
+      "name":"Pieter Williams",
+      "department":"HR"
+
+   }
+
+
+]
